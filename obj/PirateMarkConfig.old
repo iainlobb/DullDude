@@ -33,7 +33,7 @@
     </library-path>
   </compiler>
   <file-specs>
-    <path-element>C:\Users\Iain\Documents\My Dropbox\DULL DUDE\DULLDUDE ENGINE\DullDude\src\asteroids\AsteroidsMain.as</path-element>
+    <path-element>C:\Users\Iain\Documents\My Dropbox\DULL DUDE\DULLDUDE ENGINE\DullDude\src\piratemark\PirateMarkMain.as</path-element>
   </file-specs>
   <default-background-color>#FFFFFF</default-background-color>
   <default-frame-rate>60</default-frame-rate>

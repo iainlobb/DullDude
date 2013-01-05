@@ -16,24 +16,24 @@
     </define>
     <define append="true">
       <name>CONFIG::timeStamp</name>
-      <value>'04/01/2013'</value>
+      <value>'05/01/2013'</value>
     </define>
     <optimize>true</optimize>
     <omit-trace-statements>true</omit-trace-statements>
     <verbose-stacktraces>false</verbose-stacktraces>
     <source-path append="true">
-      <path-element>C:\Users\Iain\Documents\My Dropbox\DULL DUDE\STARLING ENGINE\src</path-element>
-      <path-element>C:\Users\Iain\Documents\My Dropbox\DULL DUDE\STARLING ENGINE\src\assets</path-element>
-      <path-element>C:\Users\Iain\Documents\My Dropbox\DULL DUDE\STARLING ENGINE\src\assets</path-element>
+      <path-element>C:\Users\Iain\Documents\My Dropbox\DULL DUDE\DULLDUDE ENGINE\DullDude\src</path-element>
+      <path-element>C:\Users\Iain\Documents\My Dropbox\DULL DUDE\DULLDUDE ENGINE\DullDude\src\assets</path-element>
+      <path-element>C:\Users\Iain\Documents\My Dropbox\DULL DUDE\DULLDUDE ENGINE\DullDude\src\assets</path-element>
       <path-element>C:\Program Files\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
     <include-libraries />
     <library-path append="true">
-      <path-element>C:\Users\Iain\Documents\My Dropbox\DULL DUDE\STARLING ENGINE\lib\DConsole2.swc</path-element>
+      <path-element>C:\Users\Iain\Documents\My Dropbox\DULL DUDE\DULLDUDE ENGINE\DullDude\lib\DConsole2.swc</path-element>
     </library-path>
   </compiler>
   <file-specs>
-    <path-element>C:\Users\Iain\Documents\My Dropbox\DULL DUDE\STARLING ENGINE\src\piratemark\PirateMarkMain.as</path-element>
+    <path-element>C:\Users\Iain\Documents\My Dropbox\DULL DUDE\DULLDUDE ENGINE\DullDude\src\asteroids\AsteroidsMain.as</path-element>
   </file-specs>
   <default-background-color>#FFFFFF</default-background-color>
   <default-frame-rate>60</default-frame-rate>

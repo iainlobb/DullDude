@@ -116,7 +116,7 @@
 			
 			if (entity.view)
 			{
-				
+				removeChild(entity.view.displayObject);
 			}
 			
 			entity.destroyed.remove(onEntityDestroyed);
